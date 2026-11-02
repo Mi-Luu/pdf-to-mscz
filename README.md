@@ -1,5 +1,7 @@
 # pdf-to-mscz
 
+[![CI](https://github.com/Mi-Luu/pdf-to-mscz/actions/workflows/ci.yml/badge.svg)](https://github.com/Mi-Luu/pdf-to-mscz/actions/workflows/ci.yml)
+
 Turn a **printed sheet-music PDF** into an **editable MuseScore 4 project** (`.mscz`).
 
 Most sheet-music PDFs are dead ends: the notes are vector glyph outlines from a music font
