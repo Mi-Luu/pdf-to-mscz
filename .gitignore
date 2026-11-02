@@ -1,0 +1,27 @@
+# build artefacts
+build/
+out/
+work/
+*.mscz
+*.pdf
+*.mid
+*.mxl
+*.musicxml
+*.mscx
+*.omr
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# tools cache (Audiveris download / unpack)
+pdf-to-mscz/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
